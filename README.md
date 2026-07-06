@@ -1,6 +1,9 @@
 # 🏥 AI Hospital Priority Management System
+# 🏥 AI Hospital Priority Management System
 
-An AI-powered healthcare platform designed to automate patient triage and prioritize patients based on the severity of their medical condition. The system helps hospitals reduce waiting times, improve resource allocation, and ensure that critical patients receive immediate medical attention through intelligent decision-making. :contentReference[oaicite:0]{index=0}
+An AI-powered healthcare platform designed to automate patient triage and prioritize patients based on the severity of their medical condition. The system helps hospitals reduce waiting times, improve resource allocation, and ensure that critical patients receive immediate medical attention through intelligent decision-making.
+
+---
 
 ## 🚀 Features
 
@@ -15,6 +18,8 @@ An AI-powered healthcare platform designed to automate patient triage and priori
 - 🔔 Notification System
 - 📊 Real-time Priority Classification
 
+---
+
 ## 🧠 How It Works
 
 1. Patient registers and submits symptoms.
@@ -25,7 +30,9 @@ An AI-powered healthcare platform designed to automate patient triage and priori
    - 🟡 Medium
    - 🟢 Low
 4. Doctors receive the AI recommendation.
-5. Patients are treated according to their assigned priority. :contentReference[oaicite:1]{index=1}
+5. Patients are treated according to their assigned priority.
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -36,6 +43,8 @@ An AI-powered healthcare platform designed to automate patient triage and priori
 - PostgreSQL / MongoDB
 - n8n
 - Node.js
+
+---
 
 ## 📂 Project Modules
 
@@ -48,7 +57,9 @@ An AI-powered healthcare platform designed to automate patient triage and priori
 - Appointment System
 - Recent Bookings
 - n8n Workflow Automation
-- Notification Service :contentReference[oaicite:2]{index=2}
+- Notification Service
+
+---
 
 ## 🎯 Objectives
 
@@ -56,7 +67,9 @@ An AI-powered healthcare platform designed to automate patient triage and priori
 - Improve patient prioritization.
 - Assist doctors with AI-generated recommendations.
 - Optimize hospital resources.
-- Enhance patient care through intelligent automation. :contentReference[oaicite:3]{index=3}
+- Enhance patient care through intelligent automation.
+
+---
 
 ## 🔒 Future Improvements
 
@@ -66,9 +79,21 @@ An AI-powered healthcare platform designed to automate patient triage and priori
 - Mobile Application
 - Predictive Analytics Dashboard
 
+---
+
 ## 👥 Team
 
-Developed as a university Artificial Intelligence project.
+Developed as a university Artificial Intelligence project by a team of four members:
+
+| Name | Role & Contribution |
+|------|----------------------|
+| **Amna** | Group Lead • Idea Representator • Project Documentation • Research Work • Database Design & Development |
+| **Iqra** | Development Team |
+| **Ifra** | Development Team |
+| **Fatima** | Development Team |
+
+
+---
 
 ## 📄 License
 
