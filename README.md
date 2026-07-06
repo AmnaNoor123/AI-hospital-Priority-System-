@@ -1,5 +1,4 @@
 # 🏥 AI Hospital Priority Management System
-# 🏥 AI Hospital Priority Management System
 
 An AI-powered healthcare platform designed to automate patient triage and prioritize patients based on the severity of their medical condition. The system helps hospitals reduce waiting times, improve resource allocation, and ensure that critical patients receive immediate medical attention through intelligent decision-making.
 
